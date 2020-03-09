@@ -1,0 +1,20 @@
+body
+{
+background:black;
+}
+.dabba
+{
+position:relative;
+top:180px;
+width:50%;
+height:400px;
+background:purple;
+margin:auto;
+transition: 0.6s;
+}
+.dabba .magic
+{
+position:relative;
+top:100px;
+left:50px;
+}

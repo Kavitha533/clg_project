@@ -1,0 +1,90 @@
+Patient Id,Age,Gender,Consultant Doctor Id,Diagnosis,No Of Days,Medical Prescription,Hospital Infrastructure,Health Condition
+101,26,f,deepthi,Pregnant,1,low,good,moderate
+102,51,m,sravan,fever,3,low,good,moderate
+103,60,m,sravan,fever,5,high,good,serious
+99,48,m,sravan,fever,2,moderate,good,moderate
+100,50,m,sravan,fever chills,2,moderate,good,moderate
+96,17,m,sravan,fever cough,3,moderate,good,infection
+97,51,m,bali reddy,perineal abcess,4,high,low,serious
+98,30,m,sravan,fever cough,3,low,low,infection
+87,11,m,bali reddy,appendix,10,high,advanced,serious
+88,35,m,bali reddy,breathing difficulty  chest pain,4,moderate,good,infection
+89,27,f,deepthi,pregnant,1,moderate,good,moderate
+90,19,m,bali reddy,appendix,7,high,advanced,serious
+91,35,m,sravan,fever chills,2,moderate,good,moderate
+92,46,m,sravan,fever chills,3,moderate,good,moderate
+93,24,m,sravan,scrub,4,high,good,moderate
+94,70,m,sravan,illness,1,low,poor,moderate
+95,45,m,sravan,illness,2,low,poor,moderate
+79,60,m,srinivasulu,copd,4,moderate,good,moderate
+78,29,m,sravan,fever,3,moderate,good,moderate
+77,13,m,sri charan,fever chills,2,moderate,good,moderate
+76,12,m,sri charan,dengue,4,moderate,good,infection
+83,42,m,sravan,fever,2,moderate,good,moderate
+82,35,m,sravan,fever,1,low,low,moderate
+81,50,m,srinivasulu,fever,3,medium,good,infection
+86,18,m,sravan,poly arthities,4,moderate,good,moderate
+85,30,m,deepthi,vomitings,2,moderate,good,moderate
+84,31,f,deepthi,vomitings,2,moderate,good,moderate
+76,27,f,deepthi,pregnant,1,moderate,good,moderate
+75,25,f,deepthi,pregnant,1,moderate,good,moderate
+23,45,m,vinod,eftihia,3,low,good,moderate
+24,79,m,sravan,asthma,4,moderate,advanced,recovery
+25,58,m,sravan,fever,5,high,advanced,moderate
+26,55,m,sravan,viral fever,3,high,poor,serious
+21,31,f,deepthi,pregnant,2,moderate,good,recovery
+22,21,m,bali reddy,appendix,10,high,advanced,serious
+16,47,m,sravan,viral fever,5,low,good,moderate
+17,16,f,bali reddy,appendix,15,high,advanced,serious
+18,21,f,bali reddy,appendix,9,moderate,good,infection
+19,52,f,sravan,viral fever,6,low,good,moderate
+20,22,m,sravan,viral fever,4,low,good,recovery
+14,16,m,sravan,viral fever,7,high,good,recovery
+15,22,m,sravan,viral fever,5,moderate,poor,recovery
+10,33,m,sravan,viral fever,4,low,good,infection
+11,56,f,sravan,viral fever,5,moderate,poor,recovery
+12,24,f,deepthi,appendix,8,high,advanced,infection
+13,56,f,deepthi,vomitings,3,low,good,recovery
+1,17,m,sravan,viral fever,4,moderate,good,recovery
+2,60,m,sravan,scrub,3,moderate,poor,moderate
+3,26,f,deepthi,appendix,15,moderate,advanced,infection
+71,30,m,sravan,fever,5,moderate,advanced,serious
+29,53,f,sravan,fever,4,moderate,advanced,serious
+30,15,m,sravan,fever,2,moderate,poor,moderate
+31,28,f,sravan,acidity,1,moderate,good,moderate
+32,22,f,deepthi,pregnant,6,high,advanced,serious
+33,20,f,deepthi,pregnant,2,moderate,good,moderate
+34,20,f,deepthi,pregnant,7,high,advanced,serious
+66,47,m,srinivasulu,fever,2,low,poor,infection
+67,22,f,deepthi,vomitings,2,moderate,good,moderate
+44,50,m,sravan,hypokalimia,10,high,moderate,serious
+45,8,f,srikar,dengue +ve,5,moderate,advanced,moderate
+46,35,m,sravan,fever,2,low,advanced,moderate
+47,55,m,sravan,aft,15,high,poor,serious
+48,60,f,sravan,fever,2,low,advanced,moderate
+49,50,m,sravan,viral fever,10,moderate,good,serious
+50,40,f,deepthi,open hystestomy,12,moderate,poor,serious
+51,15,m,sravan,typhoid,10,moderate,good,serious
+52,50,f,dinesh,asthma,1,moderate,good,serious
+53,55,m,kalpana,diabetes,1,high,good,serious
+54,38,m,sravan,bodypains,3,high,good,serious
+55,18,f,sravan,headache,2,moderate,advanced,serious
+56,25,f,dinesh,asthma,1,moderate,good,moderate
+57,27,f,deepthi,pregnant,1,moderate,advanced,serious
+58,30,m,balireddy,appendix,2,moderate,good,serious
+59,32,m,dinesh,asthma,1,high,good,recovery
+60,9,m,sricharan,esinophlia,5,high,poor,serious
+61,48,m,kalpana,diabetes,1,high,good,serious
+62,32,f,deepthi,pregnant,1,moderate,good,moderate
+63,20,m,sravan,typhoid,5,moderate,good,moderate
+64,28,m,deepthi,open hystestomy,12,moderate,poor,serious
+65,30,f,sravan,bodypains,2,moderate,advanced,serious
+56,48,m,sravan,dengue,4,moderate,advanced,serious
+57,35,m,sravan,fever,3,moderate,poor,moderate
+58,27,f,deepthi,pregnant,7,moderate,advanced,serious
+55,1,m,deepthi,fever,4,moderate,poor,infection
+54,21,f,sravan,dengue,7,moderate,advanced,serious
+53,60,m,sravan,stomouch pains,3,moderate,poor,serious
+52,48,m,sravan,fever,2,moderate,poor,infection
+50,27,f,srinivasulu,fever,2,high,advanced,serious
+43,24,f,sravan,appendix,7,high,advanced,infection

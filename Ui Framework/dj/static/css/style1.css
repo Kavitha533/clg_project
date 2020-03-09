@@ -1,0 +1,37 @@
+body
+{
+background:black;
+}
+.pe
+{
+position:relative;
+top:50px;
+width:70%;
+height:150px;
+background:white;
+margin:auto;
+}
+.dabba
+{
+position:relative;
+top:100px;
+width:50%;
+height:450px;
+background:purple;
+margin:auto;
+transition: 0.6s;
+}
+.dabba .name
+{
+position:relative;
+top:30px;
+left:60px;
+font-size:30px;
+color:white;
+}
+.dabba .magic
+{
+position:relative;
+top:10px;
+left:60px;
+}
